@@ -106,16 +106,16 @@ format:
 ### A Balance of Skill Sets
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 #### Soft Skills
 
--   communication
--   interpersonal
--   collaborative (team player)
+-   Communication
+-   Good interpersonal relationship
+-   Collaboration (team player)
 -   Problem solving
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 #### Hard Skills
 
 -   Tech Skills
